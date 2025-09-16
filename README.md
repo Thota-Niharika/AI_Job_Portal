@@ -16,12 +16,12 @@ A React-based job portal that helps candidates find their dream job with AI-powe
 
 ## 📸 Preview
 
-![Home Page Preview1](./public/images/screenshot1.png )
-![Home Page Preview2](./public/images/screenshot2.png )
-![Home Page Preview3](./public/images/screenshot3.png )
-![Popup message Preview](./public/images/screenshot5.png )
-![Application Updated Preview](./public/images/screenshot6.png )
-![Submission Preview](./public/images/screenshot4.png )
+![Home Page Preview1](./public/images/Screenshot1.png )
+![Home Page Preview2](./public/images/Screenshot2.png )
+![Home Page Preview3](./public/images/Screenshot3.png )
+![Popup message Preview](./public/images/Screenshot5.png )
+![Application Updated Preview](./public/images/Screenshot6.png )
+![Submission Preview](./public/images/Screenshot4.png )
 
 
 
