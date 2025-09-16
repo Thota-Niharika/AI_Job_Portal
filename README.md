@@ -16,7 +16,9 @@ A React-based job portal that helps candidates find their dream job with AI-powe
 
 ## 📸 Preview
 
-![AI Job Portal Preview](./Screenshot1.png)(./Screenshot2.png)(./Screenshot3.png)
+![AI Job Portal Preview](./images/Screenshot1.png)
+(./images/Screenshot2.png)
+(./images/Screenshot3.png)
 
 Use the buttons below each job card to apply and track your applications.
 
